@@ -113,5 +113,3 @@ Pause.addEventListener("click", function(){
 })
     
 
-
-
